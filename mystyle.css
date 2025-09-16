@@ -44,9 +44,9 @@ nav a:hover {
 	margin: 40px 0;
 	padding: 20px; 
 	border-radius: 8px; } 
-.hero-text {
-	float:left;
-	width: 55%; 
+.hero-text { 
+	float: left; 
+	width: 50%; 
 	padding: 20px; 
 	margin-right: 20px; 
 	font-size: 20px; 
@@ -87,6 +87,7 @@ p { margin-bottom: 0;
 	padding: 15px;
 	float: left;
 	background-color: #d38f8f;
+	border-radius: 8px;
 }
 .thirdcolumn:hover {
 	box-shadow: 10px 10px 5px 3px #602234;
@@ -94,14 +95,13 @@ p { margin-bottom: 0;
 
 .button {
  background-color: #FFCBCB;
- 
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
   display: inline-block;
   font-size: 20px;
   margin: 4px 5px;
   cursor: pointer;
-  border-radius: 8px;
+  border-radius: 15px;
 }
