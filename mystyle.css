@@ -47,7 +47,7 @@ nav a:hover {
 	border-radius: 8px; } 
 .hero-text { 
 	float: left; 
-	width: 50%; 
+	width: 60%; 
 	padding: 20px; 
 	margin-right: 20px; 
 	font-size: 20px; 
@@ -55,7 +55,7 @@ nav a:hover {
 	color: #f0ece2; }
 .hero-image { 
 	float: right; 
-	width: 35%; 
+	width: 30%; 
 	border: 3px solid #D38F8F; 
 ; 
 	padding: 10px; 
