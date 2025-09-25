@@ -149,9 +149,8 @@ p { margin-bottom: 0;
 	padding: 20px; 
 	border-radius: 8px; } 
 #Favorite-hero-text { 
-	float: left; 
 	width: 100%; 
-	padding: 20px; 
+	padding: 0px; 
 	margin-right: 20px; 
 	font-size: 20px; 
 	line-height: 1.5; 
